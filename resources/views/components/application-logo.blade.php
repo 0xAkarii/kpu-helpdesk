@@ -1,0 +1,1 @@
+<img class="h-12 w-12 {{ $attributes }}" src="/img/img.png" alt="KPU Helpdesk">
